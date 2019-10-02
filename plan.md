@@ -1,5 +1,4 @@
-## A simple fully capable programming language that reads exactly like English.
-### The general plan of the language:
+### A simple fully capable programming language that reads exactly like English.
 
 ##### Example:
 ```
