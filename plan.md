@@ -3,7 +3,7 @@
 ##### Example:
 ```
 @number is 6
-print Your number plus 4 is (@number + 4)
+say Your number plus 4 is (@number + 4)
 ```
 ##### Output:
 
