@@ -2,10 +2,10 @@
 ### The general plan of the language:
 
 ##### Example:
-`
+```
 @number is 6
-print Your number plus 4 is (@number + 4)`
-
+print Your number plus 4 is (@number + 4)
+```
 ##### Output:
 
 `Your number plus 4 is 10`
