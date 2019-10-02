@@ -1,11 +1,11 @@
-The general plan of the language:
-A simple fully capable programming language that reads exactly like English.
+#A simple fully capable programming language that reads exactly like English.
+###The general plan of the language:
 
-Example:
+#####Example:
 
 @number is 6
-print Your number plus 4 is (@number + 4)
+`print Your number plus 4 is (@number + 4)`
 
-Output:
+#####Output:
 
-Your number plus 4 is 10
+`Your number plus 4 is 10`
